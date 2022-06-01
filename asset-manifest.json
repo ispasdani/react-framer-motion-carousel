@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-framer-motion-carousel/static/css/main.6d8fa69d.css",
+    "main.js": "/react-framer-motion-carousel/static/js/main.32de58ec.js",
+    "static/media/house5.jpg": "/react-framer-motion-carousel/static/media/house5.db297b658825aa8667d2.jpg",
+    "static/media/house3.jpg": "/react-framer-motion-carousel/static/media/house3.7d5e10b03840f3baa807.jpg",
+    "static/media/house4.jpg": "/react-framer-motion-carousel/static/media/house4.85b211bd29e92e8e25e7.jpg",
+    "static/media/house1.jpg": "/react-framer-motion-carousel/static/media/house1.84f7465f5453b8a8ff1a.jpg",
+    "static/media/house6.jpg": "/react-framer-motion-carousel/static/media/house6.f43b3bf0d0837fc88052.jpg",
+    "static/media/house2.jpg": "/react-framer-motion-carousel/static/media/house2.ae105291c9163adc1b47.jpg",
+    "index.html": "/react-framer-motion-carousel/index.html",
+    "main.6d8fa69d.css.map": "/react-framer-motion-carousel/static/css/main.6d8fa69d.css.map",
+    "main.32de58ec.js.map": "/react-framer-motion-carousel/static/js/main.32de58ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8fa69d.css",
+    "static/js/main.32de58ec.js"
+  ]
+}
